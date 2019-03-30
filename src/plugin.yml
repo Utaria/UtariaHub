@@ -1,0 +1,10 @@
+name: UtariaHub
+author: Utarwyn
+version: 1.0
+main: com.utaria.utariahub.UtariaHub
+depend: [UtariaAPI]
+commands:
+  shop:
+    description: "Permet d'ouvrir le menu de la boutique"
+    usage: "Utilisation: /shop"
+    aliases: [magasin, mg, sh, emerald, boutique]
